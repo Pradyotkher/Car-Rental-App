@@ -1,4 +1,4 @@
-# yoga
+# Car Rental App
 
 A new Flutter application.
 
